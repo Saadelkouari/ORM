@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using ORMC;
 using System.Data;
-
 namespace ConsoleTest
 {
     internal class Program
@@ -13,11 +12,12 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             Connexion.Connect("localhost", "root", "", "ensat", "mysql");
-            IDataReader dr = Connexion.Select("select * from etudiant;");
-            while (dr.Read())
+            Dictionary<string, string> map = Connexion.getChamps_table("etudiant");
+            foreach (KeyValuePair<string,string> element in map)
             {
-                Console.WriteLine(dr.GetString(2));
+                Console.WriteLine(element.Key+" "+element.Value);
             }
+
             Console.ReadKey();
         }
     }
