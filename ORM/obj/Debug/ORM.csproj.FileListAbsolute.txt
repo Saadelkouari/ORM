@@ -1,0 +1,13 @@
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\ORM.dll
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\ORM.pdb
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\MySql.Data.dll
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\Google.Protobuf.dll
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\Renci.SshNet.dll
+C:\Users\darkk\source\repos\ORM\ORM\bin\Debug\MySql.Data.xml
+C:\Users\darkk\source\repos\ORM\ORM\obj\Debug\ORM.csproj.AssemblyReference.cache
+C:\Users\darkk\source\repos\ORM\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\darkk\source\repos\ORM\ORM\obj\Debug\ORM.csproj.CopyComplete
+C:\Users\darkk\source\repos\ORM\ORM\obj\Debug\ORM.dll
+C:\Users\darkk\source\repos\ORM\ORM\obj\Debug\ORM.pdb

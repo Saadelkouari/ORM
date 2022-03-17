@@ -1,0 +1,17 @@
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\darkk\source\repos\ORM\ConsoleTest\obj\Debug\ConsoleTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\darkk\source\repos\ORM\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\darkk\source\repos\ORM\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\darkk\source\repos\ORM\ConsoleTest\obj\Debug\ConsoleTest.pdb
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\ORM.dll
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\MySql.Data.dll
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\Google.Protobuf.dll
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\Renci.SshNet.dll
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\ORM.pdb
+C:\Users\darkk\source\repos\ORM\ConsoleTest\bin\Debug\MySql.Data.xml
+C:\Users\darkk\source\repos\ORM\ConsoleTest\obj\Debug\ConsoleTest.csproj.AssemblyReference.cache
+C:\Users\darkk\source\repos\ORM\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
