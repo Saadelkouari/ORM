@@ -1,0 +1,2 @@
+C:\Users\saade\source\repos\Model\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\saade\source\repos\Model\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
